@@ -11,3 +11,5 @@
 * Feel free to change the script (and sound) to fit your needs!
 
 **Note:** there's no easy way to change the sound volume from the script itself, but you can just change AHK's volume in the Volume Mixer.
+
+**Setup:** simply install AutoHotKey and run the script.
